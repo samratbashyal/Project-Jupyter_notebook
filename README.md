@@ -14,15 +14,15 @@ The project integrates multiple relational datasets, analyzes 20+ KPIs, identifi
 
 ### Key Insights
 
-Churn Rate     : 28.6%
-Retention Rate : 71.4%
-Monthly Churn  : 55.6%
-Annual Churn   : 8.3%
-Average Tenure : 1451 Days
-ARPU           : 18.8
-Revenue Loss   : 74
-Revenue Loss % : 18%
-CLTV Lost      : 2,047
+Churn Rate     : 28.6%,
+Retention Rate : 71.4%,
+Monthly Churn  : 55.6%,
+Annual Churn   : 8.3%,
+Average Tenure : 1451 Days,
+ARPU           : 18.8,
+Revenue Loss   : 74,
+Revenue Loss % : 18%,
+CLTV Lost      : 2,047,
 
 ### Key Findings
 1. Monthly subscribers experienced approximately 6.7x higher churn than annual subscribers.
